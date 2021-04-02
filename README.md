@@ -444,18 +444,9 @@ The following table displays the ISO 8859-1 characters.
   </tbody>
 </table>
 
-ISO 8859-1 Symbols
-------------------
+# ISO 8859-1 Symbols
 
-The following table contains ISO 8859-1 symbols that you might find useful when coding web pages.
-
-Character/Glyph
-
-HTML Entity Number
-
-HTML Entity Name
-
-Description
+- The following table contains ISO 8859-1 symbols that you might find useful when coding web pages.
 
 <table align="center">
           <tbody><tr>
@@ -524,7 +515,6 @@ Description
               <td>&amp;copy;</td>
               <td>copyright</td>
             </tr>
-
             <tr>
               <td>ª</td>
               <td>&amp;#170;</td>
