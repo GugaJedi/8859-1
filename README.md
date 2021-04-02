@@ -1,54 +1,4 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@GugaJedi 
-GugaJedi
-/
-8859-1
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-8859-1/index.html
-@GugaJedi
-GugaJedi Criando...
-Latest commit 4262f44 yesterday
- History
- 1 contributor
-683 lines (672 sloc)  20 KB
-  
-<!DOCTYPE html>
-<html lang="en">
-
-  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>ISO 8859-1 Characters</title>
-    <link rel="shortcut icon" href="./icon/favicon.ico">
-    <link rel="./apple-touch-icon.png">
-    <link href="./css/custom.css" rel="stylesheet">
-    <link href="./css/css" rel="stylesheet">
-    <link href="./css/fontawesome.css" rel="stylesheet">
-    <link href="./css/base.css" rel="stylesheet">
-    <link href="./css/html.css" rel="stylesheet">
-  </head>
-
-  <body>
-
-    <div class="main">
-      <article class="content">
-
-        <h1 class="page-title">ISO 8859-1 Characters</h1>
+<h1 class="page-title">ISO 8859-1 Characters</h1>
 
         <p>This page contains the ISO 8859-1 characters that can be used when
           authoring/coding web pages and other HTML documents.</p>
@@ -710,5 +660,3 @@ Latest commit 4262f44 yesterday
           </tbody></table>
       </article>
     </div>
-  </body>
-</html>
