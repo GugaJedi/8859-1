@@ -16,53 +16,45 @@ The following table contains the reserved characters in HTML. If you want to dis
 
 For example, if you want to display a greater-than symbol (>), you should use either `&#62;` or `&gt;` in your HTML code.
 
-Character
-
-Entity Number
-
-Entity Name
-
-Description
-
-"
-
-&#34;
-
-&quot;
-
-quotation mark
-
-'
-
-&#39;
-
-&apos;
-
-apostrophe 
-
-&
-
-&#38;
-
-&amp;
-
-ampersand
-
-<
-
-&#60;
-
-&lt;
-
-less-than
-
-\>
-
-&#62;
-
-&gt;
-
-greater-than
+        <table align="center">
+          <tbody><tr>
+              <th style="width:15%">Character</th>
+              <th style="width:25%">Entity Number</th>
+              <th style="width:25%">Entity Name</th>
+              <th style="width:35%">Description</th>
+            </tr>
+            <tr>
+              <td>"</td>
+              <td>&amp;#34;</td>
+              <td>&amp;quot;</td>
+              <td>quotation mark</td>
+            </tr>
+            <tr>
+              <td>'</td>
+              <td>&amp;#39;</td>
+              <td>&amp;apos;</td>
+              <td>apostrophe&nbsp;</td>
+            </tr>
+            <tr>
+              <td>&amp;</td>
+              <td>&amp;#38;</td>
+              <td>&amp;amp;</td>
+              <td>ampersand</td>
+            </tr>
+            <tr>
+              <td>&lt;</td>
+              <td>&amp;#60;</td>
+              <td>&amp;lt;</td>
+              <td>less-than</td>
+            </tr>
+            <tr>
+              <td>&gt;</td>
+              <td>&amp;#62;</td>
+              <td>&amp;gt;</td>
+              <td>greater-than</td>
+            </tr>
+          </tbody>
+        </table>
 
 ISO 8859-1 Characters
 ---------------------
