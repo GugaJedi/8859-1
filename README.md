@@ -455,274 +455,217 @@ HTML Entity Name
 
 Description
 
- 
-
-&#160;
-
-&nbsp;
-
-non-breaking space
-
-¡
-
-&#161;
-
-&iexcl;
-
-inverted exclamation mark
-
-¢
-
-&#162;
-
-&cent;
-
-cent
-
-£
-
-&#163;
-
-&pound;
-
-pound
-
-¤
-
-&#164;
-
-&curren;
-
-currency
-
-¥
-
-&#165;
-
-&yen;
-
-yen
-
-¦
-
-&#166;
-
-&brvbar;
-
-broken vertical bar
-
-§
-
-&#167;
-
-&sect;
-
-section
-
-¨
-
-&#168;
-
-&uml;
-
-spacing diaeresis
-
-©
-
-&#169;
-
-&copy;
-
-copyright
-
-ª
-
-&#170;
-
-&ordf;
-
-feminine ordinal indicator
-
-«
-
-&#171;
-
-&laquo;
-
-angle quotation mark (left)
-
-¬
-
-&#172;
-
-&not;
-
-negation
-
-­
-
-&#173;
-
-&shy;
-
-soft hyphen
-
-®
-
-&#174;
-
-&reg;
-
-registered trademark
-
-¯
-
-&#175;
-
-&macr;
-
-spacing macron
-
-°
-
-&#176;
-
-&deg;
-
-degree
-
-±
-
-&#177;
-
-&plusmn;
-
-plus-or-minus 
-
-²
-
-&#178;
-
-&sup2;
-
-superscript 2
-
-³
-
-&#179;
-
-&sup3;
-
-superscript 3
-
-´
-
-&#180;
-
-&acute;
-
-spacing acute
-
-µ
-
-&#181;
-
-&micro;
-
-micro
-
-¶
-
-&#182;
-
-&para;
-
-paragraph
-
-·
-
-&#183;
-
-&middot;
-
-middle dot
-
-¸
-
-&#184;
-
-&cedil;
-
-spacing cedilla
-
-¹
-
-&#185;
-
-&sup1;
-
-superscript 1
-
-º
-
-&#186;
-
-&ordm;
-
-masculine ordinal indicator
-
-»
-
-&#187;
-
-&raquo;
-
-angle quotation mark (right)
-
-¼
-
-&#188;
-
-&frac14;
-
-fraction 1/4
-
-½
-
-&#189;
-
-&frac12;
-
-fraction 1/2
-
-¾
-
-&#190;
-
-&frac34;
-
-fraction 3/4
-
-¿
-
-&#191;
-
-&iquest;
-
-inverted question mark
-
-×
-
-&#215;
-
-&times;
-
-multiplication
-
-÷
-
-&#247;
-
-&divide;
-
-division
+        <table align="center">
+          <tbody><tr>
+              <th style="width:15%">Character/Glyph</th>
+              <th style="width:25%">HTML Entity Number</th>
+              <th style="width:25%">HTML Entity Name</th>
+              <th style="width:35%">Description</th>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td>&amp;#160;</td>
+              <td>&amp;nbsp;</td>
+              <td>non-breaking space</td>
+            </tr>
+            <tr>
+              <td>¡</td>
+              <td>&amp;#161;</td>
+              <td>&amp;iexcl;</td>
+              <td>inverted exclamation mark</td>
+            </tr>
+            <tr>
+              <td>¢</td>
+              <td>&amp;#162;</td>
+              <td>&amp;cent;</td>
+              <td>cent</td>
+            </tr>
+            <tr>
+              <td>£</td>
+              <td>&amp;#163;</td>
+              <td>&amp;pound;</td>
+              <td>pound</td>
+            </tr>
+            <tr>
+              <td>¤</td>
+              <td>&amp;#164;</td>
+              <td>&amp;curren;</td>
+              <td>currency</td>
+            </tr>
+            <tr>
+              <td>¥</td>
+              <td>&amp;#165;</td>
+              <td>&amp;yen;</td>
+              <td>yen</td>
+            </tr>
+            <tr>
+              <td>¦</td>
+              <td>&amp;#166;</td>
+              <td>&amp;brvbar;</td>
+              <td>broken vertical bar</td>
+            </tr>
+            <tr>
+              <td>§</td>
+              <td>&amp;#167;</td>
+              <td>&amp;sect;</td>
+              <td>section</td>
+            </tr>
+            <tr>
+              <td>¨</td>
+              <td>&amp;#168;</td>
+              <td>&amp;uml;</td>
+              <td>spacing diaeresis</td>
+            </tr>
+            <tr>
+              <td>©</td>
+              <td>&amp;#169;</td>
+              <td>&amp;copy;</td>
+              <td>copyright</td>
+            </tr>
+
+            <tr>
+              <td>ª</td>
+              <td>&amp;#170;</td>
+              <td>&amp;ordf;</td>
+              <td>feminine ordinal indicator</td>
+            </tr>
+            <tr>
+              <td>«</td>
+              <td>&amp;#171;</td>
+              <td>&amp;laquo;</td>
+              <td>angle quotation mark (left)</td>
+            </tr>
+            <tr>
+              <td>¬</td>
+              <td>&amp;#172;</td>
+              <td>&amp;not;</td>
+              <td>negation</td>
+            </tr>
+            <tr>
+              <td>­</td>
+              <td>&amp;#173;</td>
+              <td>&amp;shy;</td>
+              <td>soft hyphen</td>
+            </tr>
+            <tr>
+              <td>®</td>
+              <td>&amp;#174;</td>
+              <td>&amp;reg;</td>
+              <td>registered trademark</td>
+            </tr>
+            <tr>
+              <td>¯</td>
+              <td>&amp;#175;</td>
+              <td>&amp;macr;</td>
+              <td>spacing macron</td>
+            </tr>
+            <tr>
+              <td>°</td>
+              <td>&amp;#176;</td>
+              <td>&amp;deg;</td>
+              <td>degree</td>
+            </tr>
+            <tr>
+              <td>±</td>
+              <td>&amp;#177;</td>
+              <td>&amp;plusmn;</td>
+              <td>plus-or-minus&nbsp;</td>
+            </tr>
+            <tr>
+              <td>²</td>
+              <td>&amp;#178;</td>
+              <td>&amp;sup2;</td>
+              <td>superscript 2</td>
+            </tr>
+            <tr>
+              <td>³</td>
+              <td>&amp;#179;</td>
+              <td>&amp;sup3;</td>
+              <td>superscript 3</td>
+            </tr>
+            <tr>
+              <td>´</td>
+              <td>&amp;#180;</td>
+              <td>&amp;acute;</td>
+              <td>spacing acute</td>
+            </tr>
+            <tr>
+              <td>µ</td>
+              <td>&amp;#181;</td>
+              <td>&amp;micro;</td>
+              <td>micro</td>
+            </tr>
+            <tr>
+              <td>¶</td>
+              <td>&amp;#182;</td>
+              <td>&amp;para;</td>
+              <td>paragraph</td>
+            </tr>
+            <tr>
+              <td>·</td>
+              <td>&amp;#183;</td>
+              <td>&amp;middot;</td>
+              <td>middle dot</td>
+            </tr>
+            <tr>
+              <td>¸</td>
+              <td>&amp;#184;</td>
+              <td>&amp;cedil;</td>
+              <td>spacing cedilla</td>
+            </tr>
+            <tr>
+              <td>¹</td>
+              <td>&amp;#185;</td>
+              <td>&amp;sup1;</td>
+              <td>superscript 1</td>
+            </tr>
+            <tr>
+              <td>º</td>
+              <td>&amp;#186;</td>
+              <td>&amp;ordm;</td>
+              <td>masculine ordinal indicator</td>
+            </tr>
+            <tr>
+              <td>»</td>
+              <td>&amp;#187;</td>
+              <td>&amp;raquo;</td>
+              <td>angle quotation mark (right)</td>
+            </tr>
+            <tr>
+              <td>¼</td>
+              <td>&amp;#188;</td>
+              <td>&amp;frac14;</td>
+              <td>fraction 1/4</td>
+            </tr>
+            <tr>
+              <td>½</td>
+              <td>&amp;#189;</td>
+              <td>&amp;frac12;</td>
+              <td>fraction 1/2</td>
+            </tr>
+            <tr>
+              <td>¾</td>
+              <td>&amp;#190;</td>
+              <td>&amp;frac34;</td>
+              <td>fraction 3/4</td>
+            </tr>
+            <tr>
+              <td>¿</td>
+              <td>&amp;#191;</td>
+              <td>&amp;iquest;</td>
+              <td>inverted question mark</td>
+            </tr>
+            <tr>
+              <td>×</td>
+              <td>&amp;#215;</td>
+              <td>&amp;times;</td>
+              <td>multiplication</td>
+            </tr>
+            <tr>
+              <td>÷</td>
+              <td>&amp;#247;</td>
+              <td>&amp;divide;</td>
+              <td>division</td>
+            </tr>
+          </tbody>
+</table>
