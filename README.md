@@ -12,43 +12,44 @@ The first 128 characters of ISO-8859-1 is the original ASCII character-set. This
   - For example, if you want to display a greater-than symbol (>), you should use either `&#62;` or `&gt;` in your HTML code.
 
 <table align="center">
-          <tbody><tr>
-              <th style="width:15%">Character</th>
-              <th style="width:25%">Entity Number</th>
-              <th style="width:25%">Entity Name</th>
-              <th style="width:35%">Description</th>
-            </tr>
-            <tr>
-              <td>"</td>
-              <td>&amp;#34;</td>
-              <td>&amp;quot;</td>
-              <td>quotation mark</td>
-            </tr>
-            <tr>
-              <td>'</td>
-              <td>&amp;#39;</td>
-              <td>&amp;apos;</td>
-              <td>apostrophe&nbsp;</td>
-            </tr>
-            <tr>
-              <td>&amp;</td>
-              <td>&amp;#38;</td>
-              <td>&amp;amp;</td>
-              <td>ampersand</td>
-            </tr>
-            <tr>
-              <td>&lt;</td>
-              <td>&amp;#60;</td>
-              <td>&amp;lt;</td>
-              <td>less-than</td>
-            </tr>
-            <tr>
-              <td>&gt;</td>
-              <td>&amp;#62;</td>
-              <td>&amp;gt;</td>
-              <td>greater-than</td>
-            </tr>
-          </tbody>
+  <tbody>
+    <tr>
+      <th style="width:15%">Character</th>
+      <th style="width:25%">Entity Number</th>
+      <th style="width:25%">Entity Name</th>
+      <th style="width:35%">Description</th>
+    </tr>
+    <tr>
+      <td>"</td>
+      <td>&amp;#34;</td>
+      <td>&amp;quot;</td>
+      <td>quotation mark</td>
+    </tr>
+    <tr>
+      <td>'</td>
+      <td>&amp;#39;</td>
+      <td>&amp;apos;</td>
+      <td>apostrophe&nbsp;</td>
+    </tr>
+      <tr>
+      <td>&amp;</td>
+      <td>&amp;#38;</td>
+      <td>&amp;amp;</td>
+      <td>ampersand</td>
+    </tr>
+    <tr>
+      <td>&lt;</td>
+      <td>&amp;#60;</td>
+      <td>&amp;lt;</td>
+      <td>less-than</td>
+    </tr>
+    <tr>
+      <td>&gt;</td>
+      <td>&amp;#62;</td>
+      <td>&amp;gt;</td>
+      <td>greater-than</td>
+    </tr>
+  </tbody>
 </table>
 
 ## ISO 8859-1 Characters
@@ -81,175 +82,175 @@ The first 128 characters of ISO-8859-1 is the original ASCII character-set. This
       <td>&amp;Acirc;</td>
       <td>capital a, circumflex accent</td>
     </tr>
-            <tr>
-              <td>Ã</td>
-              <td>&amp;#195;</td>
-              <td>&amp;Atilde;</td>
-              <td>capital a, tilde</td>
-            </tr>
-            <tr>
-              <td>Ä</td>
-              <td>&amp;#196;</td>
-              <td>&amp;Auml;</td>
-              <td>capital a, umlaut mark</td>
-            </tr>
-            <tr>
-              <td>Å</td>
-              <td>&amp;#197;</td>
-              <td>&amp;Aring;</td>
-              <td>capital a, ring</td>
-            </tr>
-            <tr>
-              <td>Æ</td>
-              <td>&amp;#198;</td>
-              <td>&amp;AElig;</td>
-              <td>capital ae</td>
-            </tr>
-            <tr>
-              <td>Ç</td>
-              <td>&amp;#199;</td>
-              <td>&amp;Ccedil;</td>
-              <td>capital c, cedilla</td>
-            </tr>
-            <tr>
-              <td>È</td>
-              <td>&amp;#200;</td>
-              <td>&amp;Egrave;</td>
-              <td>capital e, grave accent</td>
-            </tr>
-            <tr>
-              <td>É</td>
-              <td>&amp;#201;</td>
-              <td>&amp;Eacute;</td>
-              <td>capital e, acute accent</td>
-            </tr>
-            <tr>
-              <td>Ê</td>
-              <td>&amp;#202;</td>
-              <td>&amp;Ecirc;</td>
-              <td>capital e, circumflex accent</td>
-            </tr>
-            <tr>
-              <td>Ë</td>
-              <td>&amp;#203;</td>
-              <td>&amp;Euml;</td>
-              <td>capital e, umlaut mark</td>
-            </tr>
-            <tr>
-              <td>Ì</td>
-              <td>&amp;#204;</td>
-              <td>&amp;Igrave;</td>
-              <td>capital i, grave accent</td>
-            </tr>
-            <tr>
-              <td>Í</td>
-              <td>&amp;#205;</td>
-              <td>&amp;Iacute;</td>
-              <td>capital i, acute accent</td>
-            </tr>
-            <tr>
-              <td>Î</td>
-              <td>&amp;#206;</td>
-              <td>&amp;Icirc;</td>
-              <td>capital i, circumflex accent</td>
-            </tr>
-            <tr>
-              <td>Ï</td>
-              <td>&amp;#207;</td>
-              <td>&amp;Iuml;</td>
-              <td>capital i, umlaut mark</td>
-            </tr>
-            <tr>
-              <td>Ð</td>
-              <td>&amp;#208;</td>
-              <td>&amp;ETH;</td>
-              <td>capital eth, Icelandic</td>
-            </tr>
-            <tr>
-              <td>Ñ</td>
-              <td>&amp;#209;</td>
-              <td>&amp;Ntilde;</td>
-              <td>capital n, tilde</td>
-            </tr>
-            <tr>
-              <td>Ò</td>
-              <td>&amp;#210;</td>
-              <td>&amp;Ograve;</td>
-              <td>capital o, grave accent</td>
-            </tr>
-            <tr>
-              <td>Ó</td>
-              <td>&amp;#211;</td>
-              <td>&amp;Oacute;</td>
-              <td>capital o, acute accent</td>
-            </tr>
-            <tr>
-              <td>Ô</td>
-              <td>&amp;#212;</td>
-              <td>&amp;Ocirc;</td>
-              <td>capital o, circumflex accent</td>
-            </tr>
-            <tr>
-              <td>Õ</td>
-              <td>&amp;#213;</td>
-              <td>&amp;Otilde;</td>
-              <td>capital o, tilde</td>
-            </tr>
-            <tr>
-              <td>Ö</td>
-              <td>&amp;#214;</td>
-              <td>&amp;Ouml;</td>
-              <td>capital o, umlaut mark</td>
-            </tr>
-            <tr>
-              <td>Ø</td>
-              <td>&amp;#216;</td>
-              <td>&amp;Oslash;</td>
-              <td>capital o, slash</td>
-            </tr>
-            <tr>
-              <td>Ù</td>
-              <td>&amp;#217;</td>
-              <td>&amp;Ugrave;</td>
-              <td>capital u, grave accent</td>
-            </tr>
-            <tr>
-              <td>Ú</td>
-              <td>&amp;#218;</td>
-              <td>&amp;Uacute;</td>
-              <td>capital u, acute accent</td>
-            </tr>
-            <tr>
-              <td>Û</td>
-              <td>&amp;#219;</td>
-              <td>&amp;Ucirc;</td>
-              <td>capital u, circumflex accent</td>
-            </tr>
-            <tr>
-              <td>Ü</td>
-              <td>&amp;#220;</td>
-              <td>&amp;Uuml;</td>
-              <td>capital u, umlaut mark</td>
-            </tr>
-            <tr>
-              <td>Ý</td>
-              <td>&amp;#221;</td>
-              <td>&amp;Yacute;</td>
-              <td>capital y, acute accent</td>
-            </tr>
-            <tr>
-              <td>Þ</td>
-              <td>&amp;#222;</td>
-              <td>&amp;THORN;</td>
-              <td>capital THORN, Icelandic</td>
-            </tr>
-            <tr>
-              <td>ß</td>
-              <td>&amp;#223;</td>
-              <td>&amp;szlig;</td>
-              <td>small sharp s, German</td>
-            </tr>
-            <tr>
+    <tr>
+      <td>Ã</td>
+      <td>&amp;#195;</td>
+      <td>&amp;Atilde;</td>
+      <td>capital a, tilde</td>
+    </tr>
+    <tr>
+      <td>Ä</td>
+      <td>&amp;#196;</td>
+      <td>&amp;Auml;</td>
+      <td>capital a, umlaut mark</td>
+    </tr>
+    <tr>
+      <td>Å</td>
+      <td>&amp;#197;</td>
+      <td>&amp;Aring;</td>
+      <td>capital a, ring</td>
+    </tr>
+    <tr>
+      <td>Æ</td>
+      <td>&amp;#198;</td>
+      <td>&amp;AElig;</td>
+      <td>capital ae</td>
+    </tr>
+    <tr>
+      <td>Ç</td>
+      <td>&amp;#199;</td>
+      <td>&amp;Ccedil;</td>
+      <td>capital c, cedilla</td>
+    </tr>
+    <tr>
+      <td>È</td>
+      <td>&amp;#200;</td>
+      <td>&amp;Egrave;</td>
+      <td>capital e, grave accent</td>
+    </tr>
+    <tr>
+      <td>É</td>
+      <td>&amp;#201;</td>
+      <td>&amp;Eacute;</td>
+      <td>capital e, acute accent</td>
+    </tr>
+    <tr>
+      <td>Ê</td>
+      <td>&amp;#202;</td>
+      <td>&amp;Ecirc;</td>
+      <td>capital e, circumflex accent</td>
+    </tr>
+    <tr>
+      <td>Ë</td>
+      <td>&amp;#203;</td>
+      <td>&amp;Euml;</td>
+      <td>capital e, umlaut mark</td>
+    </tr>
+    <tr>
+      <td>Ì</td>
+      <td>&amp;#204;</td>
+      <td>&amp;Igrave;</td>
+      <td>capital i, grave accent</td>
+    </tr>
+    <tr>
+      <td>Í</td>
+      <td>&amp;#205;</td>
+      <td>&amp;Iacute;</td>
+      <td>capital i, acute accent</td>
+    </tr>
+    <tr>
+      <td>Î</td>
+      <td>&amp;#206;</td>
+      <td>&amp;Icirc;</td>
+      <td>capital i, circumflex accent</td>
+    </tr>
+    <tr>
+      <td>Ï</td>
+      <td>&amp;#207;</td>
+      <td>&amp;Iuml;</td>
+      <td>capital i, umlaut mark</td>
+    </tr>
+    <tr>
+      <td>Ð</td>
+      <td>&amp;#208;</td>
+      <td>&amp;ETH;</td>
+      <td>capital eth, Icelandic</td>
+    </tr>
+    <tr>
+      <td>Ñ</td>
+      <td>&amp;#209;</td>
+      <td>&amp;Ntilde;</td>
+      <td>capital n, tilde</td>
+    </tr>
+    <tr>
+      <td>Ò</td>
+      <td>&amp;#210;</td>
+      <td>&amp;Ograve;</td>
+      <td>capital o, grave accent</td>
+    </tr>
+    <tr>
+      <td>Ó</td>
+      <td>&amp;#211;</td>
+      <td>&amp;Oacute;</td>
+      <td>capital o, acute accent</td>
+    </tr>
+    <tr>
+      <td>Ô</td>
+      <td>&amp;#212;</td>
+      <td>&amp;Ocirc;</td>
+      <td>capital o, circumflex accent</td>
+    </tr>
+    <tr>
+      <td>Õ</td>
+      <td>&amp;#213;</td>
+      <td>&amp;Otilde;</td>
+      <td>capital o, tilde</td>
+    </tr>
+    <tr>
+      <td>Ö</td>
+      <td>&amp;#214;</td>
+      <td>&amp;Ouml;</td>
+      <td>capital o, umlaut mark</td>
+    </tr>
+    <tr>
+      <td>Ø</td>
+      <td>&amp;#216;</td>
+      <td>&amp;Oslash;</td>
+      <td>capital o, slash</td>
+    </tr>
+    <tr>
+      <td>Ù</td>
+      <td>&amp;#217;</td>
+      <td>&amp;Ugrave;</td>
+      <td>capital u, grave accent</td>
+    </tr>
+    <tr>
+      <td>Ú</td>
+      <td>&amp;#218;</td>
+      <td>&amp;Uacute;</td>
+      <td>capital u, acute accent</td>
+    </tr>
+    <tr>
+      <td>Û</td>
+      <td>&amp;#219;</td>
+      <td>&amp;Ucirc;</td>
+      <td>capital u, circumflex accent</td>
+    </tr>
+    <tr>
+      <td>Ü</td>
+      <td>&amp;#220;</td>
+      <td>&amp;Uuml;</td>
+      <td>capital u, umlaut mark</td>
+    </tr>
+    <tr>
+      <td>Ý</td>
+      <td>&amp;#221;</td>
+      <td>&amp;Yacute;</td>
+      <td>capital y, acute accent</td>
+    </tr>
+    <tr>
+      <td>Þ</td>
+      <td>&amp;#222;</td>
+      <td>&amp;THORN;</td>
+      <td>capital THORN, Icelandic</td>
+    </tr>
+    <tr>
+      <td>ß</td>
+      <td>&amp;#223;</td>
+      <td>&amp;szlig;</td>
+      <td>small sharp s, German</td>
+    </tr>
+    <tr>
               <td>à</td>
               <td>&amp;#224;</td>
               <td>&amp;agrave;</td>
