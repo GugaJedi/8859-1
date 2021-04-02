@@ -61,509 +61,386 @@ ISO 8859-1 Characters
 
 The following table displays the ISO 8859-1 characters.
 
-Character/Glyph
-
-HTML Entity Number
-
-HTML Entity Name
-
-Description
-
-À
-
-&#192;
-
-&Agrave;
-
-capital a, grave accent
-
-Á
-
-&#193;
-
-&Aacute;
-
-capital a, acute accent
-
-Â
-
-&#194;
-
-&Acirc;
-
-capital a, circumflex accent
-
-Ã
-
-&#195;
-
-&Atilde;
-
-capital a, tilde
-
-Ä
-
-&#196;
-
-&Auml;
-
-capital a, umlaut mark
-
-Å
-
-&#197;
-
-&Aring;
-
-capital a, ring
-
-Æ
-
-&#198;
-
-&AElig;
-
-capital ae
-
-Ç
-
-&#199;
-
-&Ccedil;
-
-capital c, cedilla
-
-È
-
-&#200;
-
-&Egrave;
-
-capital e, grave accent
-
-É
-
-&#201;
-
-&Eacute;
-
-capital e, acute accent
-
-Ê
-
-&#202;
-
-&Ecirc;
-
-capital e, circumflex accent
-
-Ë
-
-&#203;
-
-&Euml;
-
-capital e, umlaut mark
-
-Ì
-
-&#204;
-
-&Igrave;
-
-capital i, grave accent
-
-Í
-
-&#205;
-
-&Iacute;
-
-capital i, acute accent
-
-Î
-
-&#206;
-
-&Icirc;
-
-capital i, circumflex accent
-
-Ï
-
-&#207;
-
-&Iuml;
-
-capital i, umlaut mark
-
-Ð
-
-&#208;
-
-&ETH;
-
-capital eth, Icelandic
-
-Ñ
-
-&#209;
-
-&Ntilde;
-
-capital n, tilde
-
-Ò
-
-&#210;
-
-&Ograve;
-
-capital o, grave accent
-
-Ó
-
-&#211;
-
-&Oacute;
-
-capital o, acute accent
-
-Ô
-
-&#212;
-
-&Ocirc;
-
-capital o, circumflex accent
-
-Õ
-
-&#213;
-
-&Otilde;
-
-capital o, tilde
-
-Ö
-
-&#214;
-
-&Ouml;
-
-capital o, umlaut mark
-
-Ø
-
-&#216;
-
-&Oslash;
-
-capital o, slash
-
-Ù
-
-&#217;
-
-&Ugrave;
-
-capital u, grave accent
-
-Ú
-
-&#218;
-
-&Uacute;
-
-capital u, acute accent
-
-Û
-
-&#219;
-
-&Ucirc;
-
-capital u, circumflex accent
-
-Ü
-
-&#220;
-
-&Uuml;
-
-capital u, umlaut mark
-
-Ý
-
-&#221;
-
-&Yacute;
-
-capital y, acute accent
-
-Þ
-
-&#222;
-
-&THORN;
-
-capital THORN, Icelandic
-
-ß
-
-&#223;
-
-&szlig;
-
-small sharp s, German
-
-à
-
-&#224;
-
-&agrave;
-
-small a, grave accent
-
-á
-
-&#225;
-
-&aacute;
-
-small a, acute accent
-
-â
-
-&#226;
-
-&acirc;
-
-small a, circumflex accent
-
-ã
-
-&#227;
-
-&atilde;
-
-small a, tilde
-
-ä
-
-&#228;
-
-&auml;
-
-small a, umlaut mark
-
-å
-
-&#229;
-
-&aring;
-
-small a, ring
-
-æ
-
-&#230;
-
-&aelig;
-
-small ae
-
-ç
-
-&#231;
-
-&ccedil;
-
-small c, cedilla
-
-è
-
-&#232;
-
-&egrave;
-
-small e, grave accent
-
-é
-
-&#233;
-
-&eacute;
-
-small e, acute accent
-
-ê
-
-&#234;
-
-&ecirc;
-
-small e, circumflex accent
-
-ë
-
-&#235;
-
-&euml;
-
-small e, umlaut mark
-
-ì
-
-&#236;
-
-&igrave;
-
-small i, grave accent
-
-í
-
-&#237;
-
-&iacute;
-
-small i, acute accent
-
-î
-
-&#238;
-
-&icirc;
-
-small i, circumflex accent
-
-ï
-
-&#239;
-
-&iuml;
-
-small i, umlaut mark
-
-ð
-
-&#240;
-
-&eth;
-
-small eth, Icelandic
-
-ñ
-
-&#241;
-
-&ntilde;
-
-small n, tilde
-
-ò
-
-&#242;
-
-&ograve;
-
-small o, grave accent
-
-ó
-
-&#243;
-
-&oacute;
-
-small o, acute accent
-
-ô
-
-&#244;
-
-&ocirc;
-
-small o, circumflex accent
-
-õ
-
-&#245;
-
-&otilde;
-
-small o, tilde
-
-ö
-
-&#246;
-
-&ouml;
-
-small o, umlaut mark
-
-ø
-
-&#248;
-
-&oslash;
-
-small o, slash
-
-ù
-
-&#249;
-
-&ugrave;
-
-small u, grave accent
-
-ú
-
-&#250;
-
-&uacute;
-
-small u, acute accent
-
-û
-
-&#251;
-
-&ucirc;
-
-small u, circumflex accent
-
-ü
-
-&#252;
-
-&uuml;
-
-small u, umlaut mark
-
-ý
-
-&#253;
-
-&yacute;
-
-small y, acute accent
-
-þ
-
-&#254;
-
-&thorn;
-
-small thorn, Icelandic
-
-ÿ
-
-&#255;
-
-&yuml;
-
-small y, umlaut mark
+<table align="center">
+          <tbody><tr>
+              <th style="width:15%">Character/Glyph</th>
+              <th style="width:25%">HTML Entity Number</th>
+              <th style="width:25%">HTML Entity Name</th>
+              <th style="width:35%">Description</th>
+            </tr>
+            <tr>
+              <td>À</td>
+              <td>&amp;#192;</td>
+              <td>&amp;Agrave;</td>
+              <td>capital a, grave accent</td>
+            </tr>
+            <tr>
+              <td>Á</td>
+              <td>&amp;#193;</td>
+              <td>&amp;Aacute;</td>
+              <td>capital a, acute accent</td>
+            </tr>
+            <tr>
+              <td>Â</td>
+              <td>&amp;#194;</td>
+              <td>&amp;Acirc;</td>
+              <td>capital a, circumflex accent</td>
+            </tr>
+            <tr>
+              <td>Ã</td>
+              <td>&amp;#195;</td>
+              <td>&amp;Atilde;</td>
+              <td>capital a, tilde</td>
+            </tr>
+            <tr>
+              <td>Ä</td>
+              <td>&amp;#196;</td>
+              <td>&amp;Auml;</td>
+              <td>capital a, umlaut mark</td>
+            </tr>
+            <tr>
+              <td>Å</td>
+              <td>&amp;#197;</td>
+              <td>&amp;Aring;</td>
+              <td>capital a, ring</td>
+            </tr>
+            <tr>
+              <td>Æ</td>
+              <td>&amp;#198;</td>
+              <td>&amp;AElig;</td>
+              <td>capital ae</td>
+            </tr>
+            <tr>
+              <td>Ç</td>
+              <td>&amp;#199;</td>
+              <td>&amp;Ccedil;</td>
+              <td>capital c, cedilla</td>
+            </tr>
+            <tr>
+              <td>È</td>
+              <td>&amp;#200;</td>
+              <td>&amp;Egrave;</td>
+              <td>capital e, grave accent</td>
+            </tr>
+            <tr>
+              <td>É</td>
+              <td>&amp;#201;</td>
+              <td>&amp;Eacute;</td>
+              <td>capital e, acute accent</td>
+            </tr>
+            <tr>
+              <td>Ê</td>
+              <td>&amp;#202;</td>
+              <td>&amp;Ecirc;</td>
+              <td>capital e, circumflex accent</td>
+            </tr>
+            <tr>
+              <td>Ë</td>
+              <td>&amp;#203;</td>
+              <td>&amp;Euml;</td>
+              <td>capital e, umlaut mark</td>
+            </tr>
+            <tr>
+              <td>Ì</td>
+              <td>&amp;#204;</td>
+              <td>&amp;Igrave;</td>
+              <td>capital i, grave accent</td>
+            </tr>
+            <tr>
+              <td>Í</td>
+              <td>&amp;#205;</td>
+              <td>&amp;Iacute;</td>
+              <td>capital i, acute accent</td>
+            </tr>
+            <tr>
+              <td>Î</td>
+              <td>&amp;#206;</td>
+              <td>&amp;Icirc;</td>
+              <td>capital i, circumflex accent</td>
+            </tr>
+            <tr>
+              <td>Ï</td>
+              <td>&amp;#207;</td>
+              <td>&amp;Iuml;</td>
+              <td>capital i, umlaut mark</td>
+            </tr>
+            <tr>
+              <td>Ð</td>
+              <td>&amp;#208;</td>
+              <td>&amp;ETH;</td>
+              <td>capital eth, Icelandic</td>
+            </tr>
+            <tr>
+              <td>Ñ</td>
+              <td>&amp;#209;</td>
+              <td>&amp;Ntilde;</td>
+              <td>capital n, tilde</td>
+            </tr>
+            <tr>
+              <td>Ò</td>
+              <td>&amp;#210;</td>
+              <td>&amp;Ograve;</td>
+              <td>capital o, grave accent</td>
+            </tr>
+            <tr>
+              <td>Ó</td>
+              <td>&amp;#211;</td>
+              <td>&amp;Oacute;</td>
+              <td>capital o, acute accent</td>
+            </tr>
+            <tr>
+              <td>Ô</td>
+              <td>&amp;#212;</td>
+              <td>&amp;Ocirc;</td>
+              <td>capital o, circumflex accent</td>
+            </tr>
+            <tr>
+              <td>Õ</td>
+              <td>&amp;#213;</td>
+              <td>&amp;Otilde;</td>
+              <td>capital o, tilde</td>
+            </tr>
+            <tr>
+              <td>Ö</td>
+              <td>&amp;#214;</td>
+              <td>&amp;Ouml;</td>
+              <td>capital o, umlaut mark</td>
+            </tr>
+            <tr>
+              <td>Ø</td>
+              <td>&amp;#216;</td>
+              <td>&amp;Oslash;</td>
+              <td>capital o, slash</td>
+            </tr>
+            <tr>
+              <td>Ù</td>
+              <td>&amp;#217;</td>
+              <td>&amp;Ugrave;</td>
+              <td>capital u, grave accent</td>
+            </tr>
+            <tr>
+              <td>Ú</td>
+              <td>&amp;#218;</td>
+              <td>&amp;Uacute;</td>
+              <td>capital u, acute accent</td>
+            </tr>
+            <tr>
+              <td>Û</td>
+              <td>&amp;#219;</td>
+              <td>&amp;Ucirc;</td>
+              <td>capital u, circumflex accent</td>
+            </tr>
+            <tr>
+              <td>Ü</td>
+              <td>&amp;#220;</td>
+              <td>&amp;Uuml;</td>
+              <td>capital u, umlaut mark</td>
+            </tr>
+            <tr>
+              <td>Ý</td>
+              <td>&amp;#221;</td>
+              <td>&amp;Yacute;</td>
+              <td>capital y, acute accent</td>
+            </tr>
+            <tr>
+              <td>Þ</td>
+              <td>&amp;#222;</td>
+              <td>&amp;THORN;</td>
+              <td>capital THORN, Icelandic</td>
+            </tr>
+            <tr>
+              <td>ß</td>
+              <td>&amp;#223;</td>
+              <td>&amp;szlig;</td>
+              <td>small sharp s, German</td>
+            </tr>
+            <tr>
+              <td>à</td>
+              <td>&amp;#224;</td>
+              <td>&amp;agrave;</td>
+              <td>small a, grave accent</td>
+            </tr>
+            <tr>
+              <td>á</td>
+              <td>&amp;#225;</td>
+              <td>&amp;aacute;</td>
+              <td>small a, acute accent</td>
+            </tr>
+            <tr>
+              <td>â</td>
+              <td>&amp;#226;</td>
+              <td>&amp;acirc;</td>
+              <td>small a, circumflex accent</td>
+            </tr>
+            <tr>
+              <td>ã</td>
+              <td>&amp;#227;</td>
+              <td>&amp;atilde;</td>
+              <td>small a, tilde</td>
+            </tr>
+            <tr>
+              <td>ä</td>
+              <td>&amp;#228;</td>
+              <td>&amp;auml;</td>
+              <td>small a, umlaut mark</td>
+            </tr>
+            <tr>
+              <td>å</td>
+              <td>&amp;#229;</td>
+              <td>&amp;aring;</td>
+              <td>small a, ring</td>
+            </tr>
+            <tr>
+              <td>æ</td>
+              <td>&amp;#230;</td>
+              <td>&amp;aelig;</td>
+              <td>small ae</td>
+            </tr>
+            <tr>
+              <td>ç</td>
+              <td>&amp;#231;</td>
+              <td>&amp;ccedil;</td>
+              <td>small c, cedilla</td>
+            </tr>
+            <tr>
+              <td>è</td>
+              <td>&amp;#232;</td>
+              <td>&amp;egrave;</td>
+              <td>small e, grave accent</td>
+            </tr>
+            <tr>
+              <td>é</td>
+              <td>&amp;#233;</td>
+              <td>&amp;eacute;</td>
+              <td>small e, acute accent</td>
+            </tr>
+            <tr>
+              <td>ê</td>
+              <td>&amp;#234;</td>
+              <td>&amp;ecirc;</td>
+              <td>small e, circumflex accent</td>
+            </tr>
+            <tr>
+              <td>ë</td>
+              <td>&amp;#235;</td>
+              <td>&amp;euml;</td>
+              <td>small e, umlaut mark</td>
+            </tr>
+            <tr>
+              <td>ì</td>
+              <td>&amp;#236;</td>
+              <td>&amp;igrave;</td>
+              <td>small i, grave accent</td>
+            </tr>
+            <tr>
+              <td>í</td>
+              <td>&amp;#237;</td>
+              <td>&amp;iacute;</td>
+              <td>small i, acute accent</td>
+            </tr>
+            <tr>
+              <td>î</td>
+              <td>&amp;#238;</td>
+              <td>&amp;icirc;</td>
+              <td>small i, circumflex accent</td>
+            </tr>
+            <tr>
+              <td>ï</td>
+              <td>&amp;#239;</td>
+              <td>&amp;iuml;</td>
+              <td>small i, umlaut mark</td>
+            </tr>
+            <tr>
+              <td>ð</td>
+              <td>&amp;#240;</td>
+              <td>&amp;eth;</td>
+              <td>small eth, Icelandic</td>
+            </tr>
+            <tr>
+              <td>ñ</td>
+              <td>&amp;#241;</td>
+              <td>&amp;ntilde;</td>
+              <td>small n, tilde</td>
+            </tr>
+            <tr>
+              <td>ò</td>
+              <td>&amp;#242;</td>
+              <td>&amp;ograve;</td>
+              <td>small o, grave accent</td>
+            </tr>
+            <tr>
+              <td>ó</td>
+              <td>&amp;#243;</td>
+              <td>&amp;oacute;</td>
+              <td>small o, acute accent</td>
+            </tr>
+            <tr>
+              <td>ô</td>
+              <td>&amp;#244;</td>
+              <td>&amp;ocirc;</td>
+              <td>small o, circumflex accent</td>
+            </tr>
+            <tr>
+              <td>õ</td>
+              <td>&amp;#245;</td>
+              <td>&amp;otilde;</td>
+              <td>small o, tilde</td>
+            </tr>
+            <tr>
+              <td>ö</td>
+              <td>&amp;#246;</td>
+              <td>&amp;ouml;</td>
+              <td>small o, umlaut mark</td>
+            </tr>
+            <tr>
+              <td>ø</td>
+              <td>&amp;#248;</td>
+              <td>&amp;oslash;</td>
+              <td>small o, slash</td>
+            </tr>
+            <tr>
+              <td>ù</td>
+              <td>&amp;#249;</td>
+              <td>&amp;ugrave;</td>
+              <td>small u, grave accent</td>
+            </tr>
+            <tr>
+              <td>ú</td>
+              <td>&amp;#250;</td>
+              <td>&amp;uacute;</td>
+              <td>small u, acute accent</td>
+            </tr>
+            <tr>
+              <td>û</td>
+              <td>&amp;#251;</td>
+              <td>&amp;ucirc;</td>
+              <td>small u, circumflex accent</td>
+            </tr>
+            <tr>
+              <td>ü</td>
+              <td>&amp;#252;</td>
+              <td>&amp;uuml;</td>
+              <td>small u, umlaut mark</td>
+            </tr>
+            <tr>
+              <td>ý</td>
+              <td>&amp;#253;</td>
+              <td>&amp;yacute;</td>
+              <td>small y, acute accent</td>
+            </tr>
+            <tr>
+              <td>þ</td>
+              <td>&amp;#254;</td>
+              <td>&amp;thorn;</td>
+              <td>small thorn, Icelandic</td>
+            </tr>
+            <tr>
+              <td>ÿ</td>
+              <td>&amp;#255;</td>
+              <td>&amp;yuml;</td>
+              <td>small y, umlaut mark</td>
+            </tr>
+</tbody></table>
 
 ISO 8859-1 Symbols
 ------------------
