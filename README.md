@@ -16,7 +16,7 @@ The following table contains the reserved characters in HTML. If you want to dis
 
 For example, if you want to display a greater-than symbol (>), you should use either `&#62;` or `&gt;` in your HTML code.
 
-        <table align="center">
+<table align="center">
           <tbody><tr>
               <th style="width:15%">Character</th>
               <th style="width:25%">Entity Number</th>
@@ -54,7 +54,7 @@ For example, if you want to display a greater-than symbol (>), you should use ei
               <td>greater-than</td>
             </tr>
           </tbody>
-        </table>
+</table>
 
 ISO 8859-1 Characters
 ---------------------
