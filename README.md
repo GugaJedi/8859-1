@@ -62,30 +62,31 @@ ISO 8859-1 Characters
 The following table displays the ISO 8859-1 characters.
 
 <table align="center">
-          <tbody><tr>
-              <th style="width:15%">Character/Glyph</th>
-              <th style="width:25%">HTML Entity Number</th>
-              <th style="width:25%">HTML Entity Name</th>
-              <th style="width:35%">Description</th>
-            </tr>
-            <tr>
-              <td>À</td>
-              <td>&amp;#192;</td>
-              <td>&amp;Agrave;</td>
-              <td>capital a, grave accent</td>
-            </tr>
-            <tr>
-              <td>Á</td>
-              <td>&amp;#193;</td>
-              <td>&amp;Aacute;</td>
-              <td>capital a, acute accent</td>
-            </tr>
-            <tr>
-              <td>Â</td>
-              <td>&amp;#194;</td>
-              <td>&amp;Acirc;</td>
-              <td>capital a, circumflex accent</td>
-            </tr>
+  <tbody>
+    <tr>
+      <th style="width:15%">Character/Glyph</th>
+      <th style="width:25%">HTML Entity Number</th>
+      <th style="width:25%">HTML Entity Name</th>
+      <th style="width:35%">Description</th>
+    </tr>
+    <tr>
+      <td>À</td>
+      <td>&amp;#192;</td>
+      <td>&amp;Agrave;</td>
+      <td>capital a, grave accent</td>
+    </tr>
+    <tr>
+      <td>Á</td>
+      <td>&amp;#193;</td>
+      <td>&amp;Aacute;</td>
+      <td>capital a, acute accent</td>
+    </tr>
+    <tr>
+      <td>Â</td>
+      <td>&amp;#194;</td>
+      <td>&amp;Acirc;</td>
+      <td>capital a, circumflex accent</td>
+    </tr>
             <tr>
               <td>Ã</td>
               <td>&amp;#195;</td>
