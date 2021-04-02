@@ -440,7 +440,8 @@ The following table displays the ISO 8859-1 characters.
               <td>&amp;yuml;</td>
               <td>small y, umlaut mark</td>
             </tr>
-</tbody></table>
+  </tbody>
+</table>
 
 ISO 8859-1 Symbols
 ------------------
