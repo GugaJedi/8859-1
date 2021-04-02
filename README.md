@@ -1,7 +1,4 @@
- ISO 8859-1 Characters       
-
-ISO 8859-1 Characters
-=====================
+# ISO 8859-1 Characters
 
 This page contains the ISO 8859-1 characters that can be used when authoring/coding web pages and other HTML documents.
 
@@ -9,12 +6,10 @@ ISO (International Organization for Standardization) is the world's largest deve
 
 The first 128 characters of ISO-8859-1 is the original ASCII character-set. This consists of numbers from 0-9, the english alphabet (in uppercase and lowercase), as well as some special characters.
 
-HTML Reserved Characters
-------------------------
+## HTML Reserved Characters
 
-The following table contains the reserved characters in HTML. If you want to display any of these characters on a web page, you will need to use either the entity name or number.
-
-For example, if you want to display a greater-than symbol (>), you should use either `&#62;` or `&gt;` in your HTML code.
+- The following table contains the reserved characters in HTML. If you want to display any of these characters on a web page, you will need to use either the entity name or number.
+  - For example, if you want to display a greater-than symbol (>), you should use either `&#62;` or `&gt;` in your HTML code.
 
 <table align="center">
           <tbody><tr>
@@ -56,10 +51,9 @@ For example, if you want to display a greater-than symbol (>), you should use ei
           </tbody>
 </table>
 
-ISO 8859-1 Characters
----------------------
+## ISO 8859-1 Characters
 
-The following table displays the ISO 8859-1 characters.
+- The following table displays the ISO 8859-1 characters.
 
 <table align="center">
   <tbody>
@@ -444,7 +438,7 @@ The following table displays the ISO 8859-1 characters.
   </tbody>
 </table>
 
-# ISO 8859-1 Symbols
+## ISO 8859-1 Symbols
 
 - The following table contains ISO 8859-1 symbols that you might find useful when coding web pages.
 
