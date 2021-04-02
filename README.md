@@ -455,7 +455,7 @@ HTML Entity Name
 
 Description
 
-        <table align="center">
+<table align="center">
           <tbody><tr>
               <th style="width:15%">Character/Glyph</th>
               <th style="width:25%">HTML Entity Number</th>
